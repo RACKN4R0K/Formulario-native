@@ -1,5 +1,4 @@
-import  NavigationContainer  from '@react-navigation/native';
-import { createStackNavigator } from '@react-navigation/stack';
+import { createStackNavigator } from '@react-navigation/native-stack';
 import LoginPage from './formulario';
 import HomePage from './HomePage';
 
